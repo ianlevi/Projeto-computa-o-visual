@@ -25,12 +25,3 @@ make
 - **S**: Salvar `output_image.png`
 - **Esc**: Sair
 
-### Integrantes do grupo
-
-Otto Enoc Hermano Smelan de Oliveira - 10402128
-
-Bruno Roveri - 10401752
-
-Ian Merlini -10402831
-
-Eduardo Figueira Losco - 10416650
